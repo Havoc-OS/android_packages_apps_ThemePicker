@@ -14,10 +14,4 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="primary_component_title">選擇主要顏色</string>
-    <string name="preview_name_primary">主要顏色</string>
-    <string name="preview_name_color_new">強調色</string>
-    <string name="color_component_title_new">選擇輔色</string>
-    <string name="no_options_message">原色不能用</string>
-</resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"></resources>
